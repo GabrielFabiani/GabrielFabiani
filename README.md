@@ -95,7 +95,6 @@ Me chamo Gabriel Fabiani, tenho 18 anos e sou natural do São Paulo - SP. Conclu
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFabiani&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
   
-  ## Contatos:
 <div>
 <a href="https://www.linkedin.com/in/gabriel-fabiani/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
