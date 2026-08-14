@@ -2,7 +2,7 @@
 
 **`Estudante em Ciência da Computação`**
 
-Me chamo Gabriel Fabiani, tenho 19 anos e sou natural do São Paulo - SP. Concluí o ensino médio na Etec Lauro Gomes, com o curso técnico em informática para internet. Atualmente, estou cursando Ciência da Computação no Centro Universitário FEI com bolsa de 100%. Sou apaixonado por tecnologia e compartilho aquilo que aprendo através do meu GitHub, então seja muito bem vindo ao meu perfil!
+Me chamo Gabriel Fabiani, tenho 19 anos e sou natural do São Paulo - SP. Concluí o ensino médio na Etec Lauro Gomes, com o curso técnico em informática para internet. Atualmente, estou cursando Ciência da Computação no Centro Universitário FEI com bolsa de 100%. Sou apaixonado por tecnologia e compartilho meus projetos e aquilo que aprendo através do meu GitHub, então seja muito bem vindo ao meu perfil!
 
 ---
 
@@ -72,6 +72,22 @@ Me chamo Gabriel Fabiani, tenho 19 anos e sou natural do São Paulo - SP. Conclu
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
 <br/>
