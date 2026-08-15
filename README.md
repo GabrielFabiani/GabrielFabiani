@@ -81,6 +81,14 @@ Me chamo Gabriel Fabiani, tenho 19 anos e sou natural do São Paulo - SP. Conclu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" 
+/>
 
 <br/>
 <br/>
